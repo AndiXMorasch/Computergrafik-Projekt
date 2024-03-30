@@ -60,9 +60,9 @@ Du steuerst eine Schlange, die sich über das Spielfeld bewegt und immer länger
 Jetzt kannst du Snake Fusion: Rival Rattles entweder durch Selbstkompilierung oder Verwendung der kompilierten Version spielen. Tauche ein in die spannende Welt der rivalisierenden Schlangen und erlebe das aufregende Gameplay!
 
 ## Quellen
-Sanddune aus:       https://www.the3rdsequence.com/texturedb/download/43/texture/jpg/2048/smooth+sand+dunes-2048x2048.jpg
-SnakeSkin aus:      https://www.freepik.com/free-photo/seamless-tile-background-with-lizard-skin-effect_15759261.htm#query=snake%20skin%20texture&position=15&from_view=search&track=ais
-Mystery Box aus:    https://www.cgtrader.com/items/725810/download-page
-Musik aus:          https://pixabay.com/de/music/search/genre/videospiele/
+- Sanddune aus:       https://www.the3rdsequence.com/texturedb/download/43/texture/jpg/2048/smooth+sand+dunes-2048x2048.jpg
+- SnakeSkin aus:      https://www.freepik.com/free-photo/seamless-tile-background-with-lizard-skin-effect_15759261.htm#query=snake%20skin%20texture&position=15&from_view=search&track=ais
+- Mystery Box aus:    https://www.cgtrader.com/items/725810/download-page
+- Musik aus:          https://pixabay.com/de/music/search/genre/videospiele/
 
 Stellen im Programmcode die von externen Quellen stammen oder inspiriert sind, wurden entsprechend dort markiert.
